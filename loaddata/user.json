@@ -1,0 +1,133 @@
+{
+"users": [
+	{
+		"id" : 1,
+		"name" : "Allen",
+		"email" : "notbook7787@gmail.com",
+		"password" : "qwe66519",
+		"root_user" : true,
+		"department_id" : 2,
+		"create_time" : "2026-06-22T22:45:25.060Z",
+		"update_time" : "2026-06-22T22:45:25.060Z"
+	},
+	{
+		"id" : 2,
+		"name" : "Tommy",
+		"email" : "Tommy@gmail.com",
+		"password" : "qwe66519",
+		"root_user" : false,
+		"department_id" : 1,
+		"create_time" : "2026-06-22T22:48:15.683Z",
+		"update_time" : "2026-06-22T22:48:15.683Z"
+	},
+	{
+		"id" : 3,
+		"name" : "Ellen",
+		"email" : "Ellen@gmail.com",
+		"password" : "qwe66519",
+		"root_user" : false,
+		"department_id" : 6,
+		"create_time" : "2026-06-23T19:20:54.538Z",
+		"update_time" : "2026-06-23T19:20:54.538Z"
+	},
+	{
+		"id" : 4,
+		"name" : "Alice Wang",
+		"email" : "alice.wang@example.com",
+		"password" : "qwe66519",
+		"root_user" : false,
+		"department_id" : 1,
+		"create_time" : "2026-06-23T22:32:40.863Z",
+		"update_time" : "2026-06-23T22:32:40.863Z"
+	},
+	{
+		"id" : 5,
+		"name" : "Bob Li",
+		"email" : "bob.li@example.com",
+		"password" : "qwe66519",
+		"root_user" : false,
+		"department_id" : 1,
+		"create_time" : "2026-06-23T22:32:40.863Z",
+		"update_time" : "2026-06-23T22:32:40.863Z"
+	},
+	{
+		"id" : 6,
+		"name" : "Carol Chen",
+		"email" : "carol.chen@example.com",
+		"password" : "qwe66519",
+		"root_user" : false,
+		"department_id" : 1,
+		"create_time" : "2026-06-23T22:32:40.863Z",
+		"update_time" : "2026-06-23T22:32:40.863Z"
+	},
+	{
+		"id" : 7,
+		"name" : "David Huang",
+		"email" : "david.huang@example.com",
+		"password" : "qwe66519",
+		"root_user" : false,
+		"department_id" : 2,
+		"create_time" : "2026-06-23T22:32:40.863Z",
+		"update_time" : "2026-06-23T22:32:40.863Z"
+	},
+	{
+		"id" : 8,
+		"name" : "Eva Liu",
+		"email" : "eva.liu@example.com",
+		"password" : "qwe66519",
+		"root_user" : false,
+		"department_id" : 2,
+		"create_time" : "2026-06-23T22:32:40.863Z",
+		"update_time" : "2026-06-23T22:32:40.863Z"
+	},
+	{
+		"id" : 9,
+		"name" : "Frank Chang",
+		"email" : "frank.chang@example.com",
+		"password" : "qwe66519",
+		"root_user" : false,
+		"department_id" : 4,
+		"create_time" : "2026-06-23T22:32:40.863Z",
+		"update_time" : "2026-06-23T22:32:40.863Z"
+	},
+	{
+		"id" : 10,
+		"name" : "Grace Yang",
+		"email" : "grace.yang@example.com",
+		"password" : "qwe66519",
+		"root_user" : false,
+		"department_id" : 4,
+		"create_time" : "2026-06-23T22:32:40.863Z",
+		"update_time" : "2026-06-23T22:32:40.863Z"
+	},
+	{
+		"id" : 11,
+		"name" : "Henry Wu",
+		"email" : "henry.wu@example.com",
+		"password" : "qwe66519",
+		"root_user" : false,
+		"department_id" : 5,
+		"create_time" : "2026-06-23T22:32:40.863Z",
+		"update_time" : "2026-06-23T22:32:40.863Z"
+	},
+	{
+		"id" : 12,
+		"name" : "Irene Lin",
+		"email" : "irene.lin@example.com",
+		"password" : "qwe66519",
+		"root_user" : false,
+		"department_id" : 7,
+		"create_time" : "2026-06-23T22:32:40.863Z",
+		"update_time" : "2026-06-23T22:32:40.863Z"
+	},
+	{
+		"id" : 13,
+		"name" : "Jack Zhou",
+		"email" : "jack.zhou@example.com",
+		"password" : "qwe66519",
+		"root_user" : false,
+		"department_id" : 6,
+		"create_time" : "2026-06-23T22:32:40.863Z",
+		"update_time" : "2026-06-23T22:32:40.863Z"
+	}
+]}

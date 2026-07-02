@@ -1,0 +1,45 @@
+{
+"department": [
+	{
+		"id" : 2,
+		"department_name" : "後台管理部門",
+		"manager_id" : 2,
+		"create_time" : "2026-06-22T22:42:34.380Z",
+		"update_time" : "2026-06-22T22:46:04.771Z"
+	},
+	{
+		"id" : 1,
+		"department_name" : "人事部門",
+		"manager_id" : 3,
+		"create_time" : "2026-06-22T22:42:34.380Z",
+		"update_time" : "2026-06-22T22:48:19.501Z"
+	},
+	{
+		"id" : 6,
+		"department_name" : "專案管理部",
+		"manager_id" : 4,
+		"create_time" : "2026-06-22T22:51:18.479Z",
+		"update_time" : "2026-06-23T19:21:30.214Z"
+	},
+	{
+		"id" : 4,
+		"department_name" : "研發技術部",
+		"manager_id" : 5,
+		"create_time" : "2026-06-22T22:51:18.479Z",
+		"update_time" : "2026-06-23T23:53:31.856Z"
+	},
+	{
+		"id" : 5,
+		"department_name" : "業務部",
+		"manager_id" : 6,
+		"create_time" : "2026-06-22T22:51:18.479Z",
+		"update_time" : "2026-06-23T23:54:16.113Z"
+	},
+	{
+		"id" : 7,
+		"department_name" : "行政部門",
+		"manager_id" : 7,
+		"create_time" : "2026-06-23T18:10:01.824Z",
+		"update_time" : "2026-06-23T23:54:28.317Z"
+	}
+]}

@@ -1,0 +1,45 @@
+{
+"department_manager": [
+	{
+		"id" : 2,
+		"user_id" : 1,
+		"is_ceo" : false,
+		"create_time" : "2026-06-22T22:45:56.709Z",
+		"update_time" : "2026-06-22T22:45:56.709Z"
+	},
+	{
+		"id" : 3,
+		"user_id" : 2,
+		"is_ceo" : false,
+		"create_time" : "2026-06-22T22:48:17.618Z",
+		"update_time" : "2026-06-22T22:48:17.618Z"
+	},
+	{
+		"id" : 4,
+		"user_id" : 3,
+		"is_ceo" : false,
+		"create_time" : "2026-06-23T19:21:19.335Z",
+		"update_time" : "2026-06-23T19:21:19.335Z"
+	},
+	{
+		"id" : 5,
+		"user_id" : 9,
+		"is_ceo" : false,
+		"create_time" : "2026-06-23T23:53:16.035Z",
+		"update_time" : "2026-06-23T23:53:16.035Z"
+	},
+	{
+		"id" : 6,
+		"user_id" : 11,
+		"is_ceo" : false,
+		"create_time" : "2026-06-23T23:54:10.242Z",
+		"update_time" : "2026-06-23T23:54:10.242Z"
+	},
+	{
+		"id" : 7,
+		"user_id" : 12,
+		"is_ceo" : false,
+		"create_time" : "2026-06-23T23:54:22.268Z",
+		"update_time" : "2026-06-23T23:54:22.268Z"
+	}
+]}
