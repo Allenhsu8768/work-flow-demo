@@ -168,7 +168,7 @@ def action_leave_work_flow_agent(
             break
         
         loading_spinner.start()
-        response = table_info_update_agent.stream(
+        response = leave_work_flow_agent.stream(
             input={
                 "messages": [
                     {
